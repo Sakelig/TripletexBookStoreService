@@ -1,4 +1,4 @@
-package no.academy.bookservice;
+package no.academy.bookservice.Book;
 
 import org.springframework.data.repository.CrudRepository;
 

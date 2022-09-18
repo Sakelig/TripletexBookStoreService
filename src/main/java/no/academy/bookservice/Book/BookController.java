@@ -1,4 +1,4 @@
-package no.academy.bookservice;
+package no.academy.bookservice.Book;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
