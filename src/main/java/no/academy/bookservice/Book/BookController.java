@@ -32,7 +32,7 @@ public class BookController {
     }
 
 
-    @PostMapping("/book")
+    @PostMapping("/books")
     public Book newBook(@RequestBody Book book){
         bookRepository.save(book);
         return book;
